@@ -1,2 +1,2 @@
 # LITA-Capstone-Sales-Data-project
-LITA Capstone project is about a retail store sales performance
+Documentation of The Incubator Hub LITA Capstone Project 1
