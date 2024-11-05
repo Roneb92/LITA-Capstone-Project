@@ -8,9 +8,19 @@ This project aims to generate insight of a retail store sales performance such a
 The primary source of the data used is Data sale.Csv
 
 ### Tools Used
-- Microsoft Excel for Data cleaning, Analysis and Visualization
-- SQL- Structured Query Language for Querying
-- Power BI for visualozation and interactive dashboard
-- GitHub for Portfolio Building
+- Microsoft Excel for
+  1 Data cleaning
+  2 Data Analysis
+  3 Data Visualization
+  
+- SQL- Structured Query Language for
+  * Querying
+  
+- Power BI for
+  1 Visualozation
+  2 Interactive dashboard
+  
+- GitHub for
+  *Portfolio Building
 
 
