@@ -56,11 +56,13 @@ Some basic codes, queries and DAX functions were used during analysis
 Select * From [dbo].[SALES_PROJECT_1]
 
 1------- To retrieve total sales for each product category------
-- Select product, SUM(revenue) as TotalSales from [dbo].[SALES_PROJECT_1]
+-
+``` Select product, SUM(revenue) as TotalSales from [dbo].[SALES_PROJECT_1]
 group by product
 
 2------- Find the number of sales transaction in each region------
-Select region, count(*) AS NumberOfSalesTransaction from [dbo].[SALES_PROJECT_1]
+-
+```Select region, count(*) AS NumberOfSalesTransaction from [dbo].[SALES_PROJECT_1]
 group by Region
 
 
