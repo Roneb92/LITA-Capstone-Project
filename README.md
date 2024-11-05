@@ -9,18 +9,16 @@ The primary source of the data used is Data sale.Csv
 
 ### Tools Used
 - Microsoft Excel for
-  1 Data cleaning
-  2 Data Analysis
-  3 Data Visualization
+  1. Data cleaning
+  2. Data Analysis
+  3. Data Visualization
   
-- SQL- Structured Query Language for
-  * Querying
+- SQL- Structured Query Language for Querying
   
 - Power BI for
-  1 Visualozation
-  2 Interactive dashboard
+  1. Visualozation
+  2. Interactive dashboard
   
-- GitHub for
-  *Portfolio Building
+- GitHub for Portfolio Building
 
 
