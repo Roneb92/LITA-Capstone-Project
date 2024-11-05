@@ -47,16 +47,16 @@ Some basic codes, queries and DAX functions were used during analysis
 
  ![Sales Pivot with Chart](https://github.com/user-attachments/assets/9e4ecf04-2ea6-4d92-a60b-80fb2431192e)
 
- ### SQL - Structured Query Language
- '''
- - Below are the queries used to analyse the Sales Data
+  SQL - Structured Query Language
+
+ ``` Below are the queries used to analyse the Sales Data
 
    Create Database LITA_PROJECT_1
 
 Select * From [dbo].[SALES_PROJECT_1]
 
 1------- To retrieve total sales for each product category------
-Select product, SUM(revenue) as TotalSales from [dbo].[SALES_PROJECT_1]
+- Select product, SUM(revenue) as TotalSales from [dbo].[SALES_PROJECT_1]
 group by product
 
 2------- Find the number of sales transaction in each region------
