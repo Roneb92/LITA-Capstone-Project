@@ -34,14 +34,16 @@ The following operations were performed at the initial phase of the Data
 ### Data Analysis
 Some basic codes, queries and DAX functions were used during analysis
 
-### Microsoft Excel
+### Microsoft Excel Analysis
 
+- This is a preview of the Sales Data after it has been cleaned and transformed and some basic calculations were done to get Revenue and Total Sales.
 ![Sales Cleaned Data](https://github.com/user-attachments/assets/38c63a0c-48d1-497f-ba17-77e9f610cd1d)
 
+### Microsoft Pivot Tables
+- Below are the images of the visualization done using pivot Tables and Charts 
   ![Sales Pivot](https://github.com/user-attachments/assets/76b66fff-3bc4-42bd-85e3-6491555de498)
 
-  
-![Sales Pivot with Chart](https://github.com/user-attachments/assets/9e4ecf04-2ea6-4d92-a60b-80fb2431192e)
+ ![Sales Pivot with Chart](https://github.com/user-attachments/assets/9e4ecf04-2ea6-4d92-a60b-80fb2431192e)
 
 
 
